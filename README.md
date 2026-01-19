@@ -7,10 +7,10 @@
 
 <p align="center">
   <!-- Social links -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vinamratha-pai-6a83402ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Vinnpai" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -20,10 +20,10 @@
 <!-- ==================== STATS ==================== -->
 <div align="center">
   <h3>📊 GitHub Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&amp;show_icons=true&amp;theme=dark" width="45%"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&amp;theme=dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinnpai&amp;show_icons=true&amp;theme=dark" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=Vinnpai&amp;theme=dark" width="45%"/>
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&amp;theme=dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinnpai&amp;theme=dark"/>
 </div>
 
 <hr style="border: 0.5px solid #444;"/>
@@ -31,8 +31,7 @@
 <!-- ==================== ABOUT ME ==================== -->
 <h2 align="center">✨ About Me</h2>
 <p align="center">
-  I'm an engineering student with a passion for <strong>user-centric UI</strong> and <strong>robust full-stack solutions</strong> — not just flashy
-  tech. I love clean design, intuitive flows, and building projects you actually
+  I'm an engineering student with a passion for <strong>user-centric UI</strong> and <strong>robust full-stack solutions</strong>. I love clean design, intuitive flows, and building projects you actually
   want to interact with.
 </p>
 
@@ -71,9 +70,9 @@
 
 <!-- Lost & Found card -->
 <div align="left" style="width:90%;background:#222; padding:12px; border-radius:8px;">
-  <h3 style="margin: 0; color:#00d1b2;">College Lost & Found</h3>
-  <p style="margin-top:4px;">Web app for tracking found items with filters and structured UI flow.</p>
-  <a href="https://github.com/YOUR_USERNAME/College-Lost-And-Found" target="_blank">🔗 View Repo</a>
+  <h3 style="margin: 0; color:#00d1b2;">FinGenie</h3>
+  <p style="margin-top:4px;">AI powered finance assistant.</p>
+  <a href="https://github.com/Vinnpai/FnGenie" target="_blank">🔗 View Repo</a>
 </div>
 
 </div>
@@ -85,6 +84,6 @@
 <p align="center">
   I'm always open to talking about UI, projects, or collaboration.
   <br>
-  <a href="mailto:YOUR_EMAIL@example.com">✉️ Email</a> • 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a>
+  <a href="mailto:vinamrathanew@example.com">✉️ Email</a> • 
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vinamratha-pai-6a83402ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">LinkedIn</a>
 </p>
