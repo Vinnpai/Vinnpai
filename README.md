@@ -1,59 +1,90 @@
-Hi, I’m Vinamratha
+<!-- ==================== HEADER ==================== -->
+<h1 align="center">Hi 👋, I'm <span style="color:#007acc;">Your Name</span></h1>
+<p align="center">
+  <strong>Engineering student | UI-focused Full-Stack Developer</strong><br>
+  Building thoughtful interfaces with clean code and real purpose.
+</p>
 
-A 3rd Year Engineering student focused on building real, usable projects.
-I care about clean UI, solid logic, and learning things the right way.
+<p align="center">
+  <!-- Social links -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-⸻
+<hr style="border: 0.5px solid #444;"/>
 
-📊 GitHub at a glance
+<!-- ==================== STATS ==================== -->
+<div align="center">
+  <h3>📊 GitHub Activity</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&amp;show_icons=true&amp;theme=dark" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&amp;theme=dark" width="45%"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&amp;theme=dark"/>
+</div>
 
+<hr style="border: 0.5px solid #444;"/>
 
-⸻
+<!-- ==================== ABOUT ME ==================== -->
+<h2 align="center">✨ About Me</h2>
+<p align="center">
+  I'm an engineering student with a passion for <strong>user-centric UI</strong> and <strong>robust full-stack solutions</strong> — not just flashy
+  tech. I love clean design, intuitive flows, and building projects you actually
+  want to interact with.
+</p>
 
-🚀 What I’m working on
-	•	UI-focused full-stack web projects
-	•	Real-world apps with authentication & structured data
-	•	Improving DSA fundamentals by patterns, not random questions
+<!-- ==================== TECH STACK ==================== -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</p>
 
-⸻
+<hr style="border: 0.5px solid #444;"/>
 
-🧠 Currently learning
-	•	Data Structures & Algorithms
-	•	Backend basics (Auth, APIs, Databases)
-	•	Cloud fundamentals
+<!-- ==================== CURRENT FOCUS ==================== -->
+<h2 align="center">🔭 What I'm Working On</h2>
+<ul>
+  <li>Crafting beautiful, responsive UI with strong interaction design.</li>
+  <li>Building full-stack web applications with Firebase backend.</li>
+  <li>Improving UI workflows & user journeys in real projects.</li>
+</ul>
 
-⸻
+<!-- ==================== PROJECT HIGHLIGHTS ==================== -->
+<h2 align="center">⭐ Featured Projects</h2>
 
-🛠 Tech stack
+<div align="center">
 
+<!-- SheCares card -->
+<div align="left" style="width:90%;background:#222; padding:12px; border-radius:8px; margin-bottom:12px;">
+  <h3 style="margin: 0; color:#00d1b2;">SheCares</h3>
+  <p style="margin-top:4px;">UI-focused platform with authentication and real-world flow, built with responsive design in mind.</p>
+  <a href="https://github.com/YOUR_USERNAME/SheCares" target="_blank">🔗 View Repo</a>
+</div>
 
+<!-- Lost & Found card -->
+<div align="left" style="width:90%;background:#222; padding:12px; border-radius:8px;">
+  <h3 style="margin: 0; color:#00d1b2;">College Lost & Found</h3>
+  <p style="margin-top:4px;">Web app for tracking found items with filters and structured UI flow.</p>
+  <a href="https://github.com/YOUR_USERNAME/College-Lost-And-Found" target="_blank">🔗 View Repo</a>
+</div>
 
-⸻
+</div>
 
-📌 Featured work
-	•	SheCares – UI-focused platform with authentication & real-world flow
-	•	FinGenie- An AI powered finance assistant
+<hr style="border: 0.5px solid #444;"/>
 
-(Repos pinned below ⬇️)
-
-⸻
-
-📫 Reach me
-	•	LinkedIn: (add link when ready)
-
-Thanks for stopping by ✨
-
-<!--
-**Vinnpai/Vinnpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ==================== CONTACT ==================== -->
+<h2 align="center">📫 Contact Me</h2>
+<p align="center">
+  I'm always open to talking about UI, projects, or collaboration.
+  <br>
+  <a href="mailto:YOUR_EMAIL@example.com">✉️ Email</a> • 
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a>
+</p>
