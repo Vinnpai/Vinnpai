@@ -1,5 +1,5 @@
 <!-- ==================== HEADER ==================== -->
-<h1 align="center">Hi 👋, I'm <span style="color:#007acc;">Your Name</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#007acc;">Vinamratha Pai</span></h1>
 <p align="center">
   <strong>Engineering student | UI-focused Full-Stack Developer</strong><br>
   Building thoughtful interfaces with clean code and real purpose.
@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Social links -->
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vinamratha-pai-6a83402ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
+  <a href="](https://www.linkedin.com/in/vinamratha-pai-6a83402ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Vinnpai" target="_blank">
