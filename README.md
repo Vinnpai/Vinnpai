@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Social links -->
-  <a href="](https://www.linkedin.com/in/vinamratha-pai-6a83402ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="]([https://www.linkedin.com/in/vinamratha-pai-6a83402ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/vinamratha-pai-6a83402ba/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Vinnpai" target="_blank">
