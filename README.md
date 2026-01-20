@@ -4,7 +4,6 @@
   <strong>Engineering student | UI-focused Full-Stack Developer</strong><br>
   Building thoughtful interfaces with clean code and real purpose.
 </p>
-
 <p align="center">
   <!-- Social links -->
   <a href="](https://www.linkedin.com/in/vinamratha-pai-6a83402ba/)" target="_blank">
