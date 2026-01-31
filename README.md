@@ -64,7 +64,7 @@
 <div align="left" style="width:90%;background:#222; padding:12px; border-radius:8px; margin-bottom:12px;">
   <h3 style="margin: 0; color:#00d1b2;">SheCares</h3>
   <p style="margin-top:4px;">UI-focused platform with authentication and real-world flow, built with responsive design in mind.</p>
-  <a href="https://github.com/YOUR_USERNAME/SheCares" target="_blank">🔗 View Repo</a>
+  <a href="https://github.com/Vinnpai/shecares" target="_blank">🔗 View Repo</a>
 </div>
 
 <!-- Lost & Found card -->
