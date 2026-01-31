@@ -71,7 +71,7 @@
 <div align="left" style="width:90%;background:#222; padding:12px; border-radius:8px;">
   <h3 style="margin: 0; color:#00d1b2;">FinGenie</h3>
   <p style="margin-top:4px;">AI powered finance assistant.</p>
-  <a href="https://github.com/Vinnpai/FnGenie" target="_blank">🔗 View Repo</a>
+  <a href="https:/https://github.com/Vinnpai/FinGenie" target="_blank">🔗 View Repo</a>
 </div>
 
 </div>
